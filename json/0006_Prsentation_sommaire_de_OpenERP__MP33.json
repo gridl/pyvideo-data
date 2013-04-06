@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/BpagyMZTm2U?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/BpagyMZTm2U?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2012-12-27T23:42:13Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=BpagyMZTm2U", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montreal, le 26/11/2012 - Pierre Lamarche, consultant fonctionnel OpenERP chez Savoir-faire Linux, pr\u00e9sente rapidement OpenERP en introduction \u00e0 la pr\u00e9sentation technique de Jo\u00e3o Alfredo Gama Batista.\n\nLiens utiles:\n* OpenERP: http://www.openerp.com\n* Savoir-faire Linux: http://www.savoirfairelinux.com\n* MP33: http://montrealpython.org/2012/11/mp33/\n* Montreal Python: http://montrealpython.org", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/BpagyMZTm2U/hqdefault.jpg", 
+  "title": "Pr\u00e9sentation sommaire de OpenERP  #MP33", 
+  "whiteboard": "needs editing"
+}

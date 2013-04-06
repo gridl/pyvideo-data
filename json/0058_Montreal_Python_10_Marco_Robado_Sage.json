@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:59Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/wYVc_Ou_Zfo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/wYVc_Ou_Zfo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2011-10-07T14:51:06Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=wYVc_Ou_Zfo", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "", 
+  "tags": [
+    "People"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/wYVc_Ou_Zfo/hqdefault.jpg", 
+  "title": "Montreal Python 10 Marco Robado Sage", 
+  "whiteboard": "needs editing"
+}

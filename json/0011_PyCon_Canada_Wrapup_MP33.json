@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ppHrKyukYNY?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ppHrKyukYNY?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2012-12-27T18:39:17Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=ppHrKyukYNY", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montreal, Nov. 26, 2012 - \u00c9ric Araujo presents a 7'20\" wrapup of the first PyCon Canada conference that was held in Toronto two weeks before. \n\nUseful links:\n* PyCon Canada: http://2012.pycon.ca/\n* MP33: http://montrealpython.org/2012/11/mp33/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/ppHrKyukYNY/hqdefault.jpg", 
+  "title": "PyCon Canada Wrapup #MP33", 
+  "whiteboard": "needs editing"
+}

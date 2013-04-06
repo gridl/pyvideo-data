@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/_hdPkgdnHFo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/_hdPkgdnHFo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2012-11-08T03:46:03Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=_hdPkgdnHFo", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montreal, Oct. 22, 2012 - Michael Lenczner, co-founder of Montreal Ouvert and CEO of Ajah, explained what the Hacking Corruption 2012 hackathon is all about.\n\nThis short video was recorded live at the Montreal Python monthly event MP32 with a little help from Savoir-faire Linux.\n\nUseful links:\n* Hackathon: http://quebecouvert.org/events/hackonslacorruption/\n* Montreal Ouvert: http://montrealouvert.net/\n* Ajah fundtracker: http://ajah.ca\n* MP32: http://montrealpython.org/2012/10/mp32/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/_hdPkgdnHFo/hqdefault.jpg", 
+  "title": "Hacking Corruption 2012 Explained By Michael Lenczner", 
+  "whiteboard": "needs editing"
+}

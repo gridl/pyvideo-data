@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/nsLOzpwYII8?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/nsLOzpwYII8?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2013-02-11T17:53:43Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=nsLOzpwYII8", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montreal, Jan. 21, 2013 - Python developer Rory Geoghegan continues his presentation of itertools -- a Python module which implements a number of iterator building blocks inspired by constructs from APL, Haskell, and SML.\n\nUseful links:\n* Previous video: itertools, Part 1: http://youtu.be/VxPoJbpqAzI\n* itertools: http://docs.python.org/2/library/itertools.html\n* Rory: ca.linkedin.com/pub/rory-geoghegan/4/372/499\n* MP34: http://montrealpython.org/2013/01/mp34/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/nsLOzpwYII8/hqdefault.jpg", 
+  "title": "Module of the Month: itertools, Part 2 #MP34", 
+  "whiteboard": "needs editing"
+}

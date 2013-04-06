@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/fACW50szTEU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/fACW50szTEU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2013-02-11T18:29:54Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=fACW50szTEU", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montr\u00e9al, le 21 janvier 2013 - Jean-Fran\u00e7ois Fortin Tam pr\u00e9sente Pitivi, un logiciel de montage vid\u00e9o non lin\u00e9aire con\u00e7u pour s'int\u00e9grer au bureau GNOME et toujours en phase de d\u00e9veloppement qui utilise la bo\u00eete \u00e0 outils GTK+ pour son interface et la biblioth\u00e8que multim\u00e9dia GStreamer pour les op\u00e9rations de lecture et de rendu audio\u2212vid\u00e9o.\n\nLiens utiles:\n* Pitivi: http://www.pitivi.org/ + http://fr.wikipedia.org/wiki/PiTiVi\n* Jean-Fran\u00e7ois: http://jeff.ecchi.ca/\n* MP34: http://montrealpython.org/2013/01/mp34/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/fACW50szTEU/hqdefault.jpg", 
+  "title": "Pitivi, logiciel libre de montage vid\u00e9o en Python #MP34", 
+  "whiteboard": "needs editing"
+}

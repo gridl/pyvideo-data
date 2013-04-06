@@ -1,0 +1,20 @@
+{
+  "added": "2013-04-06T14:03:58Z", 
+  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "description": "", 
+  "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/6qAEOozgYwU?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/6qAEOozgYwU?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
+  "language": "English", 
+  "quality_notes": "", 
+  "recorded": "2012-11-09T22:15:34Z", 
+  "slug": "", 
+  "source_url": "http://www.youtube.com/watch?v=6qAEOozgYwU", 
+  "speakers": [], 
+  "state": 2, 
+  "summary": "Montreal, Oct. 22, 2012 - Une pr\u00e9sentation de Thibault Cohen sur Shinken, une technologie ouverte de supervision de syst\u00e8me informatique d\u00e9velopp\u00e9e en Python.\n\nPlus de d\u00e9tails:\n* Shinken: http://www.shinken-monitoring.org/\n* MP32: http://montrealpython.org/2012/10/mp32/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "tags": [
+    "Tech"
+  ], 
+  "thumbnail_url": "http://i.ytimg.com/vi/6qAEOozgYwU/hqdefault.jpg", 
+  "title": "Shinken : quand un Python rencontre Nagios", 
+  "whiteboard": "needs editing"
+}
