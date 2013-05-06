@@ -1,20 +1,22 @@
 {
   "added": "2013-04-06T14:03:58Z", 
-  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "copyright_text": "CC BY 3.0", 
   "description": "", 
   "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/AR8sbabx02c?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/AR8sbabx02c?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
-  "language": "English", 
+  "language": "French", 
   "quality_notes": "", 
   "recorded": "2012-12-27T19:02:27Z", 
   "slug": "", 
   "source_url": "http://www.youtube.com/watch?v=AR8sbabx02c", 
-  "speakers": [], 
+  "speakers": [
+    "Guillaume Laforge"
+  ], 
   "state": 2, 
   "summary": "Montreal, le 26/11/2012 - Guillaume Laforge pr\u00e9sente Fabric Engine, un framework modulaire permettant aux d\u00e9veloppeurs et directeurs techniques de se cr\u00e9er de puissants outils de cr\u00e9ation 2D et 3D \u00e9crits en Python et Qt.\n\nLiens utiles:\n* Fabric Engine: http://fabricengine.com\n* MP33: http://montrealpython.org/2012/11/mp33/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
   "tags": [
-    "Tech"
+    "MP33"
   ], 
   "thumbnail_url": "http://i.ytimg.com/vi/AR8sbabx02c/hqdefault.jpg", 
-  "title": "La plateforme de cr\u00e9ation Fabric Engine #MP33", 
-  "whiteboard": "needs editing"
+  "title": "La plateforme de cr\u00e9ation Fabric Engine", 
+  "whiteboard": ""
 }
