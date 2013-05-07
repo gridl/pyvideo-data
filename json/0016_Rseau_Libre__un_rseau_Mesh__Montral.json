@@ -1,20 +1,20 @@
 {
   "added": "2013-04-06T14:03:58Z", 
-  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "copyright_text": "CC BY 3.0", 
   "description": "", 
   "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/Dzequ8RzlxA?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/Dzequ8RzlxA?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
-  "language": "English", 
+  "language": "French", 
   "quality_notes": "", 
-  "recorded": "2012-11-09T22:59:23Z", 
+  "recorded": "2012-10-22T00:00:00", 
   "slug": "", 
   "source_url": "http://www.youtube.com/watch?v=Dzequ8RzlxA", 
-  "speakers": [], 
+  "speakers": ["Yannick Brosseau"], 
   "state": 2, 
-  "summary": "Montreal, Oct. 22, 2012 - Une pr\u00e9sentation de Yannick Brosseau sur R\u00e9seau Libre, un r\u00e9seau sans fil communautaire qui se construit de fa\u00e7on organique et \u00e9volutive \u00e0 mesure que de nouveaux membres s'y joignent.\n\nPlus de d\u00e9tails:\n* R\u00e9seau Libre: http://wiki.reseaulibre.ca/\n* MP32: http://montrealpython.org/2012/10/mp32/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
+  "summary": "Une pr\u00e9sentation de Yannick Brosseau sur R\u00e9seau Libre, un r\u00e9seau sans fil communautaire qui se construit de fa\u00e7on organique et \u00e9volutive \u00e0 mesure que de nouveaux membres s'y joignent.\n\nPlus de d\u00e9tails:\n* R\u00e9seau Libre: http://wiki.reseaulibre.ca/\n* MP32: http://montrealpython.org/2012/10/mp32/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
   "tags": [
-    "Tech"
+    "MP32"
   ], 
   "thumbnail_url": "http://i.ytimg.com/vi/Dzequ8RzlxA/hqdefault.jpg", 
   "title": "R\u00e9seau Libre : un r\u00e9seau Mesh \u00e0 Montr\u00e9al", 
-  "whiteboard": "needs editing"
+  "whiteboard": ""
 }

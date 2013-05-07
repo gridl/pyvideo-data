@@ -1,6 +1,6 @@
 {
   "added": "2013-04-06T14:03:58Z", 
-  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "copyright_text": "CC BY 3.0", 
   "description": "", 
   "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/eFX3gCUtoWM?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/eFX3gCUtoWM?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
   "language": "English", 
@@ -8,13 +8,13 @@
   "recorded": "2012-12-27T20:44:22Z", 
   "slug": "", 
   "source_url": "http://www.youtube.com/watch?v=eFX3gCUtoWM", 
-  "speakers": [], 
+  "speakers": ["Alvaro Tejada Galindo"], 
   "state": 2, 
   "summary": "Montreal, Nov. 26, 2012 - Alvaro Tejada Galindo explains what developpers can do now that external connections are available to both SAP ERP and SAP HANA database.\n\nUseful links:\n* SAP Developer Center: http://developers.sap.com\n* MP33: http://montrealpython.org/2012/11/mp33/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
   "tags": [
-    "Tech"
+    "MP33"
   ], 
   "thumbnail_url": "http://i.ytimg.com/vi/eFX3gCUtoWM/hqdefault.jpg", 
-  "title": "Python and SAP #MP33", 
-  "whiteboard": "needs editing"
+  "title": "Python and SAP", 
+  "whiteboard": ""
 }

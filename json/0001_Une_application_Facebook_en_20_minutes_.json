@@ -1,20 +1,22 @@
 {
   "added": "2013-04-06T14:03:58Z", 
-  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "copyright_text": "CC BY 3.0", 
   "description": "", 
   "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/ams2Yk9UOIk?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/ams2Yk9UOIk?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
-  "language": "English", 
+  "language": "French", 
   "quality_notes": "", 
   "recorded": "2013-02-11T18:36:59Z", 
   "slug": "", 
   "source_url": "http://www.youtube.com/watch?v=ams2Yk9UOIk", 
-  "speakers": [], 
+  "speakers": [
+    "Hadrien David"
+  ], 
   "state": 2, 
   "summary": "Montr\u00e9al, le 21 janvier 2013 - Hadrien David pr\u00e9sente une d\u00e9monstration en direct d'\u00e9criture d'une application Facebook avec le framework open source Pyramid.\n\nLiens utiles:\n* Pyramid: http://en.wikipedia.org/wiki/Pylons_project#Pyramid\n* Hadrien: http://www.linkedin.com/in/hadriendavid\n* MP34: http://montrealpython.org/2013/01/mp34/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
   "tags": [
-    "Tech"
+    "MP34"
   ], 
   "thumbnail_url": "http://i.ytimg.com/vi/ams2Yk9UOIk/hqdefault.jpg", 
-  "title": "Une application Facebook en 20 minutes avec Pyramid #MP34", 
-  "whiteboard": "needs editing"
+  "title": "Une application Facebook en 20 minutes avec Pyramid", 
+  "whiteboard": ""
 }

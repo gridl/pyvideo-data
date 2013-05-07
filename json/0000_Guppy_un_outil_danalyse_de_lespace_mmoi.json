@@ -1,20 +1,22 @@
 {
   "added": "2013-04-06T14:03:58Z", 
-  "copyright_text": "http://creativecommons.org/licenses/by/3.0/", 
+  "copyright_text": "CC BY 3.0", 
   "description": "", 
   "embed": "<object width=\"640\" height=\"390\"><param name=\"movie\" value=\"http://youtube.com/v/sNQ7zsRS5Vo?version=3&amp;hl=en_US\"></param><param name=\"allowFullScreen\" value=\"true\"></param><param name=\"allowscriptaccess\" value=\"always\"></param><embed src=\"http://youtube.com/v/sNQ7zsRS5Vo?version=3&amp;hl=en_US\" type=\"application/x-shockwave-flash\" width=\"640\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed></object>", 
-  "language": "English", 
+  "language": "French", 
   "quality_notes": "", 
   "recorded": "2013-02-11T18:44:46Z", 
   "slug": "", 
   "source_url": "http://www.youtube.com/watch?v=sNQ7zsRS5Vo", 
-  "speakers": [], 
+  "speakers": [
+    "Maxime No\u00ebl"
+  ], 
   "state": 2, 
   "summary": "Montreal, Jan. 21, 2013 - Maxime No\u00ebl pr\u00e9sente Guppu-PE, un environnement de programmation Python.\n\nLiens utiles:\n* Guppy: http://guppy-pe.sourceforge.net/\n* Maxime: ca.linkedin.com/pub/maxime-no\u00ebl/5b/b62/287\n* MP34: http://montrealpython.org/2013/01/mp34/\n* Montreal Python: http://montrealpython.org\n* Savoir-faire Linux: http://www.savoirfairelinux.com", 
   "tags": [
-    "Tech"
+    "MP34"
   ], 
   "thumbnail_url": "http://i.ytimg.com/vi/sNQ7zsRS5Vo/hqdefault.jpg", 
-  "title": "Guppy, un outil d'analyse de l'espace m\u00e9moire de process Python #MP34", 
-  "whiteboard": "needs editing"
+  "title": "Guppy, un outil d'analyse de l'espace m\u00e9moire de process Python", 
+  "whiteboard": ""
 }
